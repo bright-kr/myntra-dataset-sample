@@ -1,4 +1,4 @@
-# Myntra-dataset-samples
+# Myntra 데이터셋 샘플
 
 <h2>1001개 Myntra 제품의 샘플 データセット</h2>
 
