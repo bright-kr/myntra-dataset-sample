@@ -2,7 +2,7 @@
 
 <h2>1001개 Myntra 제품의 샘플 データセット</h2>
 
-![Myntra dataset header](https://github.com/luminati-io/myntra-dataset-sample/blob/main/Myntra-datasets.png)
+![Myntra dataset header](https://github.com/bright-kr/myntra-dataset-sample/blob/main/Myntra-datasets.png)
 
 1000개 이상의 레코드로 구성된 Myntra データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
